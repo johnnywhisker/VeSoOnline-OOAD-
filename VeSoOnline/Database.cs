@@ -13,5 +13,10 @@ namespace VeSoOnline
 
             return tickets;
         }
+        public static List<Ticket> GetAllBroughtTicket(Users userInfo) {
+            List<Ticket> tickets = new List<Ticket>();
+
+            return tickets;
+        }
     }
 }
