@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\bin\Debug\VeSoOnline.exe.config
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\bin\Debug\VeSoOnline.exe
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\bin\Debug\VeSoOnline.pdb
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\obj\Debug\VeSoOnline.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\obj\Debug\VeSoOnline.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\obj\Debug\VeSoOnline.exe
+\\Mac\Home\Desktop\Working\OneDrive - TESON&N\Studying\OOAD\VeSoOnline\VeSoOnline\obj\Debug\VeSoOnline.pdb
